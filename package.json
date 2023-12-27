@@ -1,0 +1,24 @@
+{
+  "name": "react-native-admob-simple",
+  "version": "1.0.0",
+  "description": "Simpler React-Native AdMob integration",
+  "main": "init.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-native-admob-simple"
+  },
+  "keywords": [
+    "react-native",
+    "admob",
+    "simple",
+    "ads",
+    "mobile",
+    "monetization",
+    "monetize"
+  ],
+  "author": "navis001",
+  "license": "ISC"
+}

@@ -1,0 +1,59 @@
+{
+  "APP_OPEN": {
+    "ID": ""
+  },
+  "INTERSTITIAL": {
+    "ID": ""
+  },
+  "REWARDED": {
+    "ID": ""
+  },
+  "REWARDED_INTERSTITIAL": {
+    "ID": ""
+  },
+  "BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "FULL_BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "LARGE_BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "LEADERBOARD": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "MEDIUM_RECTANGLE": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "ADAPTIVE_BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "ANCHORED_ADAPTIVE_BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "INLINE_ADAPTIVE_BANNER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  },
+  "WIDE_SKYSCRAPER": {
+    "ID": "",
+    "CONTAINER_STYLE": {},
+    "REFRESH_TIME": 0
+  }
+}
